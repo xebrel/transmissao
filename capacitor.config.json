@@ -1,0 +1,14 @@
+{
+  "appId": "com.hoopstreamer.app",
+  "appName": "Hoop LiveStream Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "orientation": "landscape"
+  }
+}
